@@ -100,8 +100,6 @@ Revealing proper form using html form and table tag
                     </tr>
                 </td>
             </tr>
-            
-            
         </form>
     </table>
     </div>
